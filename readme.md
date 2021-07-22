@@ -14,15 +14,15 @@ highest education University TH/TU Delft, Informatics
 
 ### work
 
-|----------------|----------------------------------------------------------------------------|
-| period         | jan. 2004 - now                                                            |
-|----------------|----------------------------------------------------------------------------|
-| function       | senior lecturer                                                            |
-|----------------|----------------------------------------------------------------------------|
-| organization   | Hogeschool Utrecht, HBO-ICT, Technische Informatica (Computer Science)     |
-|----------------|----------------------------------------------------------------------------|
-| location       | Utrecht, Netherlands                                                       |
-|---------------------------------------------------------------------------------------------|
+| ---------------- | --------------------------------------------------------------------------- |
+| period           | jan. 2004 - now                                                             |
+| ---------------- | --------------------------------------------------------------------------- |
+| function         | senior lecturer                                                             |
+| ---------------- | --------------------------------------------------------------------------- |
+| organization     | Hogeschool Utrecht, HBO-ICT, Technische Informatica (Computer Science)      |
+| ---------------- | --------------------------------------------------------------------------- |
+| location         | Utrecht, Netherlands                                                        |
+| ---------------- | --------------------------------------------------------------------------- |
 
 I work at the section Technical Informatics. The classes I give vary by year: computer technology (1st year introduction courses), micro-controllers (combining hardware and software), programming (Java, C, C++, assembler) and architecture (real time systems, systems architecture, modeling, UML). I created the materials for most classes I teach. I also supervised interns, and some research students.
 
