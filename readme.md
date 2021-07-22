@@ -8,7 +8,7 @@ email wouter@voti.nl
 
 birthdate 18 september 1962, Gouda, Netherlands
 
-address Utrechtseweg 173, 3818 ED, Amersfoort, Netherlands
+address Amersfoort, Netherlands
 
 highest education University TH/TU Delft, Informatics 
 
@@ -23,6 +23,26 @@ highest education University TH/TU Delft, Informatics
 | ---------------- | --------------------------------------------------------------------------- |
 | location         | Utrecht, Netherlands                                                        |
 | ---------------- | --------------------------------------------------------------------------- |
+
+<table><tbody>
+
+<tr><td>period</td><td>
+jan. 2004 - now
+</td></tr>
+
+<tr><td>function</td><td>
+senior lecturer
+</td></tr>
+
+<tr><td>organization</td><td>
+Hogeschool Utrecht, HBO-ICT, Technische Informatica (Computer Science)
+</td></tr>
+
+<tr><td>location</td><td>
+Utrecht, Netherlands</td></tr>
+
+
+</tbody></table>
 
 I work at the section Technical Informatics. The classes I give vary by year: computer technology (1st year introduction courses), micro-controllers (combining hardware and software), programming (Java, C, C++, assembler) and architecture (real time systems, systems architecture, modeling, UML). I created the materials for most classes I teach. I also supervised interns, and some research students.
 
