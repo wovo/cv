@@ -2,7 +2,7 @@
 
 <table><tbody><col width="650">
 
-<tr><td >name</td><td>
+<tr><td>name xx</td><td>
 Wouter Olaf van Ooijen
 </td></tr>
 
