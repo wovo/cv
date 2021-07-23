@@ -1,8 +1,8 @@
 ![picture of me](pics/myself.jpg)
 
-<table border="1"><col width=350>
+<table border="1">
 <tr>
-<th>NAME</th>
+<th><div style="width:900px">name</div></th>
 <th>AGE</th>
 <th>BRANCH</th>
 </tr>
@@ -13,9 +13,9 @@
 </tr>
 </table>
 
-<table border=1><col width=650><tbody>
+<table border=1><tbody>
 
-<tr><td><div style="width:290px">property</div>name xy</td><td>
+<tr><td><div style="width:900px">name</div></td><td>
 Wouter Olaf van Ooijen
 </td></tr>
 
