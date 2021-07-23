@@ -1,6 +1,6 @@
 ![picture of me](pics/myself.jpg)
 
-<table><tbody><col style="width:150">
+<table><tbody><col style="width:350">
 
 <tr><td>name</td><td>
 Wouter Olaf van Ooijen
