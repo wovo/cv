@@ -15,7 +15,7 @@
 
 <table border=1><col width=650><tbody>
 
-<tr><td>name xy</td><td>
+<tr><td><div style="width:290px">property</div>name xy</td><td>
 Wouter Olaf van Ooijen
 </td></tr>
 
@@ -32,7 +32,7 @@ Amersfoort, Netherlands; permanent relocation is not an option, remote work and 
 </td></tr>
 
 <tr><td>availability</td><td>
-employed, looking for a next step
+employed, in for a next step
 </td></tr>
 
 <tr><td>highest education</td><td>
@@ -44,7 +44,8 @@ C++, Python, C, assembler, Ada, Java,
 embedded, real-time, resource-constrained, electronics,
 system design, lecturer, team leader,
 Linux, micro-controller, Cortex-M, Microchip PIC, 
-Arduino, make, git, catch2,
+Arduino, 
+make, git, catch2, doxygen, 
 industrial, space, military, 
 C++ SG14, Meeting C++, Meeting Embedded, ACCU, EmBo++, CoreHard, The Dutch C++ group
 </td></tr>
