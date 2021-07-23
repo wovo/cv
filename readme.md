@@ -13,7 +13,7 @@
 </tr>
 </table>
 
-<table border=1><col width="300">
+<table border=1><col width="1300">
 <tbody>
 
 <tr><td>name</td><td>
