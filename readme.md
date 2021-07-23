@@ -15,7 +15,7 @@
 
 <table border=1><tbody>
 
-<tr><td><div style="width:900px">name</div></td><td>
+<tr><td><span style="display: inline-block; width:500px">name</span></td><td>
 Wouter Olaf van Ooijen
 </td></tr>
 
