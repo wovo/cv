@@ -1,6 +1,5 @@
 # CV Wouter van Ooijen
 
-Inline-style: 
 ![picture of me](pics/myself.jpg)
 
 -------------------------------------------------------------------------------
@@ -72,13 +71,46 @@ Utrecht, Netherlands
 </td></tr>
 
 <tr><td colspan = 2>
-I work at the section Technical Informatics. The classes I give vary by year: computer technology (1st year introduction courses), micro-controllers (combining hardware and software), programming (Java, C, C++, assembler) and architecture (real time systems, systems architecture, modeling, UML). I created the materials for most classes I teach. I also supervised interns, and some research students.
+I work at the section Technical Informatics (Computer Science) of the HBO-ICT institute, where
+I am overall responsible for the 1.5 years of TI curriculum.
+I coach and guide colleagues, create course material, give lectures, guide and supervise students, and run the lab.
+My focus is programming small embedded (micro-controllers) systems in C++.
 </td></tr>
-
-
 
 </tbody></table>
 
+<!--- --------------------------------------------------------------------- -->
+
+
+<table><tbody>
+
+<tr><td>period</td><td>
+aug. 2001 - present
+</td></tr>
+
+<tr><td>function</td><td>
+owner
+</td></tr>
+
+<tr><td>organization</td><td>
+VOTI
+</td></tr>
+
+<tr><td>location</td><td>
+Amersfoort, Netherlands
+</td></tr>
+
+<tr><td colspan = 2>
+I run a webshop for microcontroller chips and related products. 
+My customers range from entry-level hobbyists to small-scale professionals, 
+the occasional a large company or a school. 
+
+I also do the occasional freelance job: software development and code assessments.
+</td></tr>
+
+</tbody></table>
+
+<!--- --------------------------------------------------------------------- -->
 
 VOTI
 Owner
