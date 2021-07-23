@@ -360,7 +360,7 @@ Pascal, PDP-11 assembler, numerical algorithms.
 1977 – 1981
 </td></tr>
 
-<tr><td width="100%">degree name</td><td>
+<tr><td>degree name</td><td>
 IVO MAVO, VWO (state exam)
 </td></tr>
 
@@ -396,7 +396,7 @@ Most are on the subject of using modern C++ for small embedded systems.
 
 # Miscellaneous
 
-<table border=1><tbody>
+<table border=1 width="100%"><tbody>
 
 <tr><td width="180">languages</td><td>
 Dutch (native), English
