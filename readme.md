@@ -354,7 +354,7 @@ Pascal, PDP-11 assembler, numerical algorithms.
 
 <!--- --------------------------------------------------------------------- -->
 
-<table border=1><tbody>
+<table border=1 width=100%><tbody>
 
 <tr><td width="180">period</td><td>
 1977 – 1981
@@ -377,11 +377,11 @@ Vrije School Den haag
 These are my talks and appearances that have been recorded.
 Most are on the subject of using modern C++ for small embedded systems.
 
-* ["we stopped teaching C++"](https://www.youtube.com/watch?v=VZUTJ2UNXxI) 
+* ["We stopped teaching C++"](https://www.youtube.com/watch?v=VZUTJ2UNXxI) 
    (with Jorn Bunk) Meeting Embedded 2019
 * ["Better embedded library interfaces with modern C++"](https://www.youtube.com/watch?v=ArRuPzN7JXs) 
    ACCU 2019
-* ["grill the committee"](https://www.youtube.com/watch?v=OY_mS2e4XTk) 
+* ["Grill the committee"](https://www.youtube.com/watch?v=OY_mS2e4XTk) 
    CoreHard Spring 2018
 * ["Objects? No thanks!"](https://www.youtube.com/watch?v=GcfqHT4RtWc)
    CoreHard Spring 2018 Keynote
