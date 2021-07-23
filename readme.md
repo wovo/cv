@@ -360,7 +360,7 @@ Pascal, PDP-11 assembler, numerical algorithms.
 1977 – 1981
 </td></tr>
 
-<tr><td>degree name</td><td>
+<tr><td width="100%">degree name</td><td>
 IVO MAVO, VWO (state exam)
 </td></tr>
 
