@@ -1,7 +1,7 @@
 # CV Wouter van Ooijen
 
 Inline-style: 
-![picture of me](https://github.com/wovo/cv/pics/myself.jpg)
+![picture of me](../pics/myself.jpg)
 
 ===============================================================================
 
@@ -45,11 +45,11 @@ https://www.github.com/wovo/cv
 
 </tbody></table>
 
-===============================================================================
+-------------------------------------------------------------------------------
 
 ### profile
 
-===============================================================================
+-------------------------------------------------------------------------------
 
 ### work
 
@@ -163,24 +163,32 @@ I designed, implemented (TurboPascal) and introduced a network of PCs. One PC ge
 
 Meer weergeven 
 
-===============================================================================
+-------------------------------------------------------------------------------
 
 ### education
 
-===============================================================================
+-------------------------------------------------------------------------------
 
 ### talks
 
 These are the talks I gave, mostly on using C++ for small embedded systems.
-When available, the links are to the youtube recordings.
+The links are to the youtube recordings.
 
-* ["Embedded & C++"](https://www.youtube.com/watch?v=mNPfsUZb3vs), 
+* ["we stopped teaching C++"](https://www.youtube.com/watch?v=VZUTJ2UNXxI) 
+   (with Jorn Bunk) Meeting Embedded 2019
+* ["Better embedded library interfaces with modern C++"](https://www.youtube.com/watch?v=ArRuPzN7JXs) 
+   ACCU 2019
+* [Objects? No thanks!](https://www.youtube.com/watch?v=GcfqHT4RtWc)
+   CoreHard Spring 2018
+* ["Embedded & C++"](https://www.youtube.com/watch?v=mNPfsUZb3vs)
    Meeting C++ 2017 Keynote
-* ["we stopped teaching C++"] (https://www.youtube.com/watch?v=VZUTJ2UNXxI) 
-   (with Jorn Bunk), Meeting Embedded 2019
+* ["C++ on small micro controllers"](https://www.youtube.com/watch?v=07d5g7Ykgas) 
+   Meeting C++ 2015   
+* ["Objects? No Thanks!"](https://www.youtube.com/watch?v=k8sRQMx2qUw)
+   Meeting C++ 2014   
 
 
-===============================================================================
+-------------------------------------------------------------------------------
 
 ### miscellaneous
 
