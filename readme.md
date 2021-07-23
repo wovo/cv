@@ -354,7 +354,7 @@ Pascal, PDP-11 assembler, numerical algorithms.
 
 <!--- --------------------------------------------------------------------- -->
 
-<table border=1 width=100%><tbody>
+<table border=1 width="100%"><tbody>
 
 <tr><td width="180">period</td><td>
 1977 – 1981
