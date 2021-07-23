@@ -15,7 +15,7 @@ wouter@voti.nl
 </td></tr>
 
 <tr><td>home</td><td>
-Amersfoort, Netherlands; 
+Amersfoort, Netherlands
 <BR />
 Permanent relocation is not an option, remote work and periodic trips are.
 </td></tr>
@@ -107,7 +107,7 @@ Amersfoort; Netherlands
 I run a webshop for microcontroller chips and related products. 
 My customers range from entry-level hobbyists to small-scale professionals, 
 the occasional a large company or a school. 
-
+<BR /><BR />
 I also did some freelance jobs that are mentioned below, 
 contract embedded software development, and due-dilligence code base audits.
 </td></tr>
