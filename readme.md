@@ -396,7 +396,7 @@ Most are on the subject of using modern C++ for small embedded systems.
 
 # Miscellaneous
 
-<table border=1 width="100%"><tbody>
+<table border=1; width="100%"><tbody>
 
 <tr><td width="180">languages</td><td>
 Dutch (native), English
