@@ -2,27 +2,27 @@
 
 <table><tbody>
 
-<tr><td width=100>name</td><td>
+<tr><col width=100>name</col><col>
 Wouter Olaf van Ooijen
-</td></tr>
+</col></tr>
 
-<tr><td>contact</td><td>
+<tr><col>contact</col><col>
 wouter@voti.nl
-</td></tr>
+</col></tr>
 
-<tr><td>born</td><td>
+<tr><col>born</col><col>
 18 september 1962, Gouda, Netherlands
-</td></tr>
+</col></tr>
 
-<tr><td>home</td><td>
+<tr><col>home</col><col>
 Amersfoort, Netherlands
-</td></tr>
+</col></tr>
 
-<tr><td>highest education</td><td>
+<tr><col>highest education</col><col>
 University, TH/TU Delft, Informatics (Computer Science)
-</td></tr>
+</col></tr>
 
-<tr><td>keywords</td><td>
+<tr><col>keywords</col><col>
 C++, Python, C, assembler, Ada, Java, 
 embedded, real-time, resource-constrained, electronics,
 system design, lecturer, team leader,
@@ -30,11 +30,11 @@ Linux, micro-controller, Cortex-M, Microchip PIC,
 Arduino, make, git, catch2,
 industrial, space, military, 
 C++ SG14, Meeting C++, Meeting Embedded, ACCU, EmBo++, CoreHard, The Dutch C++ group
-</td></tr>
+</col></tr>
 
-<tr><td>file location</td><td>
+<tr><col>file location</col><col>
 https://www.github.com/wovo/cv
-</td></tr>
+</col></tr>
 
 </tbody></table>
 
@@ -48,28 +48,28 @@ https://www.github.com/wovo/cv
 
 <table><tbody>
 
-<tr><td width=100>period</td><td>
+<tr><col width="100">period</col><col>
 jan. 2004 - present
-</td></tr>
+</col></tr>
 
-<tr><td>function</td><td>
+<tr><col>function</col><col>
 senior lecturer
-</td></tr>
+</col></tr>
 
-<tr><td>organization</td><td>
+<tr><col>organization</col><col>
 Hogeschool Utrecht, HBO-ICT, Technische Informatica (Computer Science)
-</td></tr>
+</col></tr>
 
-<tr><td>location</td><td>
+<tr><col>location</col><col>
 Utrecht, Netherlands
-</td></tr>
+</col></tr>
 
-<tr><td colspan = 2>
+<tr><col colspan = 2>
 I work at the section Technical Informatics (Computer Science) of the HBO-ICT institute, where
 I am overall responsible for the 1.5 years of TI curriculum.
 I coach and guide colleagues, create course material, give lectures, guide and supervise students, and run the lab.
 My focus is programming small embedded (micro-controllers) systems in C++.
-</td></tr>
+</col></tr>
 
 </tbody></table>
 
@@ -78,28 +78,28 @@ My focus is programming small embedded (micro-controllers) systems in C++.
 
 <table><tbody>
 
-<tr><td>period</td><td>
+<tr><col>period</col><col>
 aug. 2001 - present
-</td></tr>
+</col></tr>
 
-<tr><td>function</td><td>
+<tr><col>function</col><col>
 owner
-</td></tr>
+</col></tr>
 
-<tr><td>organization</td><td>
+<tr><col>organization</col><col>
 VOTI
-</td></tr>
+</col></tr>
 
-<tr><td>location</td><td>
+<tr><col>location</col><col>
 Amersfoort, Netherlands
-</td></tr>
+</col></tr>
 
-<tr><td colspan = 2>
+<tr><col colspan = 2>
 I run a webshop for microcontroller chips and related products. 
 My customers range from entry-level hobbyists to small-scale professionals, 
 the occasional a large company or a school. 
 I also do the occasional freelance job: software development and code assessments.
-</td></tr>
+</col></tr>
 
 </tbody></table>
 
