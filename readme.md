@@ -1,6 +1,9 @@
 # CV Wouter van Ooijen
 
-### headlines
+Inline-style: 
+![picture of me](https://github.com/wovo/cv/myself.jpg)
+
+### summary
 
 <table><tbody>
 
@@ -21,11 +24,11 @@ Amersfoort, Netherlands
 </td></tr>
 
 <tr><td>highest education</td><td>
-University TH/TU Delft, Informatics
+University, TH/TU Delft, Informatics (Computer Science)
 </td></tr>
 
 <tr><td>keywords</td><td>
-C++, Python, C, assembler, Ada, java, 
+C++, Python, C, assembler, Ada, Java, 
 embedded, real-time, resource-constrained, electronics,
 system design, lecturer, team leader,
 Linux, micro-controller, Cortex-M, Microchip PIC, 
@@ -47,7 +50,7 @@ https://www.github.com/wovo/cv
 <table><tbody>
 
 <tr><td>period</td><td>
-jan. 2004 - now
+jan. 2004 - present
 </td></tr>
 
 <tr><td>function</td><td>
@@ -155,6 +158,12 @@ I designed, implemented (TurboPascal) and introduced a network of PCs. One PC ge
 Meer weergeven 
 
 ### education
+
+### talks
+
+
+
+### miscellaneous
 
 
 
