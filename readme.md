@@ -13,8 +13,8 @@
 </tr>
 </table>
 
-<table border=1><col width="1300">
-<tbody><col width="1300">
+<table border=1><col width="1000">
+<tbody><col width="600">
 
 <tr><td width="1300">name</td><td>
 Wouter Olaf van Ooijen
