@@ -344,9 +344,8 @@ Technische Universiteit Delft
 </td></tr>
 
 <tr><td colspan = 2>
-Member and chair of the student club "de Delftsche Zwervers".
-<BR /><BR />
-Student-assistant for three programming courses: 
++ Member and chair of the student club "de Delftsche Zwervers".
++ Student-assistant for three programming courses: 
 Pascal, PDP-11 assembler, numerical algorithms.
 </td></tr>
 
@@ -403,11 +402,13 @@ Dutch (native), English
 </td></tr>
 
 <tr><td>hobbies</td><td>
-Natural history (water insects, mushrooms)
+Natural history: water insects, mushrooms
 </td></tr>
 
 <tr><td>sports</td><td>
-Badminton (thesaurier and chair of Badminton Club Leiden)
+Badminton 
+<BR />
+thesaurier and chair of Badminton Club Leiden
 </td></tr>
 
 </tbody></table>
