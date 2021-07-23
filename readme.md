@@ -1,14 +1,8 @@
-# CV Wouter van Ooijen
-
 ![picture of me](pics/myself.jpg)
-
--------------------------------------------------------------------------------
-
-### summary
 
 <table><tbody>
 
-<tr><td>name</td><td>
+<tr><td width=100>name</td><td>
 Wouter Olaf van Ooijen
 </td></tr>
 
@@ -44,17 +38,17 @@ https://www.github.com/wovo/cv
 
 </tbody></table>
 
--------------------------------------------------------------------------------
+<!--- --------------------------------------------------------------------- -->
 
-### profile
+# profile
 
--------------------------------------------------------------------------------
+<!--- --------------------------------------------------------------------- -->
 
-### work
+# work
 
 <table><tbody>
 
-<tr><td>period</td><td>
+<tr><td width=100>period</td><td>
 jan. 2004 - present
 </td></tr>
 
@@ -104,7 +98,6 @@ Amersfoort, Netherlands
 I run a webshop for microcontroller chips and related products. 
 My customers range from entry-level hobbyists to small-scale professionals, 
 the occasional a large company or a school. 
-
 I also do the occasional freelance job: software development and code assessments.
 </td></tr>
 
@@ -195,13 +188,13 @@ I designed, implemented (TurboPascal) and introduced a network of PCs. One PC ge
 
 Meer weergeven 
 
--------------------------------------------------------------------------------
+<!--- --------------------------------------------------------------------- -->
 
-### education
+# education
 
--------------------------------------------------------------------------------
+<!--- --------------------------------------------------------------------- -->
 
-### talks
+# talks
 
 These are my talks and appearances that have been recorded.
 Most are on the subject of using modern C++ for small embedded systems.
@@ -221,9 +214,11 @@ Most are on the subject of using modern C++ for small embedded systems.
 * ["Objects? No Thanks!"](https://www.youtube.com/watch?v=k8sRQMx2qUw)
    Meeting C++ 2014   
 
--------------------------------------------------------------------------------
+<!--- --------------------------------------------------------------------- -->
 
-### miscellaneous
+# miscellaneous
+
+languages: Dutch (native), English
 
 
 
