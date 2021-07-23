@@ -1,7 +1,9 @@
 # CV Wouter van Ooijen
 
 Inline-style: 
-![picture of me](https://github.com/wovo/cv/myself.jpg)
+![picture of me](https://github.com/wovo/cv/pics/myself.jpg)
+
+===============================================================================
 
 ### summary
 
@@ -43,7 +45,11 @@ https://www.github.com/wovo/cv
 
 </tbody></table>
 
+===============================================================================
+
 ### profile
+
+===============================================================================
 
 ### work
 
@@ -157,11 +163,24 @@ I designed, implemented (TurboPascal) and introduced a network of PCs. One PC ge
 
 Meer weergeven 
 
+===============================================================================
+
 ### education
+
+===============================================================================
 
 ### talks
 
+These are the talks I gave, mostly on using C++ for small embedded systems.
+When available, the links are to the youtube recordings.
 
+* ["Embedded & C++"](https://www.youtube.com/watch?v=mNPfsUZb3vs), 
+   Meeting C++ 2017 Keynote
+* ["we stopped teaching C++"] (https://www.youtube.com/watch?v=VZUTJ2UNXxI) 
+   (with Jorn Bunk), Meeting Embedded 2019
+
+
+===============================================================================
 
 ### miscellaneous
 
