@@ -1,28 +1,48 @@
 # CV Wouter van Ooijen
 
-### personalia
+### headlines
 
-name Wouter Olaf van Ooijen
+<table><tbody>
 
-email wouter@voti.nl
+<tr><td>name</td><td>
+Wouter Olaf van Ooijen
+</td></tr>
 
-birthdate 18 september 1962, Gouda, Netherlands
+<tr><td>contact</td><td>
+wouter@voti.nl
+</td></tr>
 
-address Amersfoort, Netherlands
+<tr><td>born</td><td>
+18 september 1962, Gouda, Netherlands
+</td></tr>
 
-highest education University TH/TU Delft, Informatics 
+<tr><td>home</td><td>
+Amersfoort, Netherlands
+</td></tr>
+
+<tr><td>highest education</td><td>
+University TH/TU Delft, Informatics
+</td></tr>
+
+<tr><td>keywords</td><td>
+C++, Python, C, assembler, Ada, java, 
+embedded, real-time, resource-constrained, electronics,
+system design, lecturer, team leader,
+Linux, micro-controller, Cortex-M, Microchip PIC, 
+Arduino, make, git, catch2,
+industrial, space, military, 
+C++ SG14, Meeting C++, Meeting Embedded, ACCU, EmBo++, CoreHard, The Dutch C++ group
+</td></tr>
+
+<tr><td>file location</td><td>
+https://www.github.com/wovo/cv
+</td></tr>
+
+</tbody></table>
+
+### profile
 
 ### work
-
-| ---------------- | --------------------------------------------------------------------------- |
-| period           | jan. 2004 - now                                                             |
-| ---------------- | --------------------------------------------------------------------------- |
-| function         | senior lecturer                                                             |
-| ---------------- | --------------------------------------------------------------------------- |
-| organization     | Hogeschool Utrecht, HBO-ICT, Technische Informatica (Computer Science)      |
-| ---------------- | --------------------------------------------------------------------------- |
-| location         | Utrecht, Netherlands                                                        |
-| ---------------- | --------------------------------------------------------------------------- |
 
 <table><tbody>
 
@@ -39,12 +59,17 @@ Hogeschool Utrecht, HBO-ICT, Technische Informatica (Computer Science)
 </td></tr>
 
 <tr><td>location</td><td>
-Utrecht, Netherlands</td></tr>
+Utrecht, Netherlands
+</td></tr>
+
+<tr><td colspan = 2>
+I work at the section Technical Informatics. The classes I give vary by year: computer technology (1st year introduction courses), micro-controllers (combining hardware and software), programming (Java, C, C++, assembler) and architecture (real time systems, systems architecture, modeling, UML). I created the materials for most classes I teach. I also supervised interns, and some research students.
+</td></tr>
+
 
 
 </tbody></table>
 
-I work at the section Technical Informatics. The classes I give vary by year: computer technology (1st year introduction courses), micro-controllers (combining hardware and software), programming (Java, C, C++, assembler) and architecture (real time systems, systems architecture, modeling, UML). I created the materials for most classes I teach. I also supervised interns, and some research students.
 
 VOTI
 Owner
