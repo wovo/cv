@@ -1,7 +1,6 @@
 ![picture of me](pics/myself.jpg)
 
-<table border=1>
-<tbody>
+<table border=1><tbody>
 
 <tr><td width="180">name</td><td>
 Wouter Olaf van Ooijen
@@ -46,13 +45,13 @@ https://www.github.com/wovo/cv
 
 <!--- --------------------------------------------------------------------- -->
 
-# profile
+## profile
 
 <!--- --------------------------------------------------------------------- -->
 
-# work
+## work
 
-<table><tbody><col style="width:150">
+<table border=1><tbody>
 
 <tr><td width="180">period</td><td>
 jan. 2004 - present
@@ -82,7 +81,7 @@ My focus is programming small embedded (micro-controllers) systems in C++.
 <!--- --------------------------------------------------------------------- -->
 
 
-<table><tbody><col style="width:150">
+<table border=1><tbody>
 
 <tr><td width="180">period</td><td>
 aug. 2001 - present
