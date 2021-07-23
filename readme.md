@@ -1,9 +1,9 @@
 # CV Wouter van Ooijen
 
 Inline-style: 
-![picture of me](../pics/myself.jpg)
+![picture of me](pics/myself.jpg)
 
-===============================================================================
+-------------------------------------------------------------------------------
 
 ### summary
 
@@ -171,22 +171,23 @@ Meer weergeven
 
 ### talks
 
-These are the talks I gave, mostly on using C++ for small embedded systems.
-The links are to the youtube recordings.
+These are my talks and appearances that have been recorded.
+Most are on the subject of using modern C++ for small embedded systems.
 
 * ["we stopped teaching C++"](https://www.youtube.com/watch?v=VZUTJ2UNXxI) 
    (with Jorn Bunk) Meeting Embedded 2019
 * ["Better embedded library interfaces with modern C++"](https://www.youtube.com/watch?v=ArRuPzN7JXs) 
    ACCU 2019
-* [Objects? No thanks!](https://www.youtube.com/watch?v=GcfqHT4RtWc)
+* ["grill the committee"](https://www.youtube.com/watch?v=OY_mS2e4XTk) 
    CoreHard Spring 2018
+* ["Objects? No thanks!"](https://www.youtube.com/watch?v=GcfqHT4RtWc)
+   CoreHard Spring 2018 Keynote
 * ["Embedded & C++"](https://www.youtube.com/watch?v=mNPfsUZb3vs)
    Meeting C++ 2017 Keynote
 * ["C++ on small micro controllers"](https://www.youtube.com/watch?v=07d5g7Ykgas) 
    Meeting C++ 2015   
 * ["Objects? No Thanks!"](https://www.youtube.com/watch?v=k8sRQMx2qUw)
    Meeting C++ 2014   
-
 
 -------------------------------------------------------------------------------
 
