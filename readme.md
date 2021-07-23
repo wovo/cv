@@ -15,7 +15,9 @@ wouter@voti.nl
 </td></tr>
 
 <tr><td>home</td><td>
-Amersfoort, Netherlands; permanent relocation is not an option, remote work and periodic trips are
+Amersfoort, Netherlands; 
+<BR />
+permanent relocation is not an option, remote work and periodic trips are
 </td></tr>
 
 <tr><td>availability</td><td>
@@ -45,11 +47,11 @@ https://www.github.com/wovo/cv
 
 <!--- --------------------------------------------------------------------- -->
 
-## profile
+## Profile
 
 <!--- --------------------------------------------------------------------- -->
 
-## work
+## Work
 
 <table border=1><tbody>
 
@@ -66,7 +68,7 @@ Hogeschool Utrecht, HBO-ICT, Technische Informatica (Computer Science)
 </td></tr>
 
 <tr><td>location</td><td>
-Utrecht, Netherlands
+Utrecht; Netherlands
 </td></tr>
 
 <tr><td colspan = 2>
@@ -96,32 +98,58 @@ VOTI
 </td></tr>
 
 <tr><td>location</td><td>
-Amersfoort, Netherlands
+Amersfoort; Netherlands
 </td></tr>
 
 <tr><td colspan = 2>
 I run a webshop for microcontroller chips and related products. 
 My customers range from entry-level hobbyists to small-scale professionals, 
 the occasional a large company or a school. 
-I also do the occasional freelance job: software development and code assessments.
+I also do the occasional freelance job: 
+embedded software development, code assessments.
 </td></tr>
 
 </tbody></table>
 
 <!--- --------------------------------------------------------------------- -->
 
-VOTI
-Owner
-VOTI
-aug. 2001 - heden
+<table border=1><tbody>
 
-Amersfoort
+<tr><td width="180">period</td><td>
+NLR (VOTI) grafisch
+tester, programmer
+NLR (VOTI)
+2001 - 2002
+</td></tr>
 
-I run a webshop for microcontroller chips and related products. My customers range from entry-level hobbyists to small-scale professionals, the occasional a large company or a school. Most customers are in the Netherlands and Flanders, but a fair number is spread all over the world. I sell components, kits (both from kit suppliers and of my own design), ready-built circuits, and software. I buy from suppliers in the Netherlands, Belgium, Germany, USA, India, and China.
+<tr><td>function</td><td>
+tester, programmer
+</td></tr>
 
-As time permits I…
+<tr><td>organization</td><td>
+NLR
+</td></tr>
 
-Meer weergeven 
+<tr><td>location</td><td>
+Markenesse, Amsterdam; Netherlands
+</td></tr>
+
+<tr><td colspan = 2>
+MPTE is a visual simulator of the ERA robot arm, 
+the space station on which the robot is used, 
+and the environment of the space station (sun, moon, earth, stars). 
+MPTE is used for mission preparation and for cosmonaut training.
+
+I created automated test procedures for a number of simulation models developed at LNR. 
+The procedures test both the functionality and the test path coverage (using Tcat-Path). 
+I also rewrote and corrected the model code and wrote (or rewrote) the detailed designs.
+</td></tr>
+
+</tbody></table>
+
+<!--- --------------------------------------------------------------------- -->
+
+
 NLR (VOTI) grafisch
 tester, programmer
 NLR (VOTI)
@@ -129,9 +157,6 @@ NLR (VOTI)
 
 Markenesse
 
-MPTE is a visual simulator of the ERA robot arm, the space station on which the robot is used, and the environment of the space station (sun, moon, earth, stars). MPTE is used for mission preparation and for cosmonaut training.
-
-I created automated test procedures for a number of simulation models developed at LNR. The procedures test both the functionality and the test path coverage (using Tcat-Path). I also rewrote and corrected the model code and wrote (or rewrote) the detailed designs.
 
 Hollandse Signaal / Thales (ICT) grafisch
 system engineer
