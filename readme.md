@@ -1,18 +1,5 @@
 ![picture of me](pics/myself.jpg)
 
-<table border="1">
-<tr>
-<th><div style="width:900px">name</div></th>
-<th>AGE</th>
-<th>BRANCH</th>
-</tr>
-<tr>
-<td>BITTU</td>
-<td>22</td>
-<td>CSE</td>
-</tr>
-</table>
-
 <table border=1>
 <tbody>
 
@@ -67,7 +54,7 @@ https://www.github.com/wovo/cv
 
 <table><tbody><col style="width:150">
 
-<tr><td>period</td><td>
+<tr><td width="180">period</td><td>
 jan. 2004 - present
 </td></tr>
 
@@ -97,7 +84,7 @@ My focus is programming small embedded (micro-controllers) systems in C++.
 
 <table><tbody><col style="width:150">
 
-<tr><td>period</td><td>
+<tr><td width="180">period</td><td>
 aug. 2001 - present
 </td></tr>
 
