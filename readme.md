@@ -1,6 +1,6 @@
 ![picture of me](pics/myself.jpg)
 
-<table border="1"><col width="350">
+<table border="1"><col width=350>
 <tr>
 <th>NAME</th>
 <th>AGE</th>
@@ -13,7 +13,7 @@
 </tr>
 </table>
 
-<table><col width="650"><tbody>
+<table border=1><col width=650><tbody>
 
 <tr><td>name xy</td><td>
 Wouter Olaf van Ooijen
