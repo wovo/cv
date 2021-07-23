@@ -14,9 +14,9 @@
 </table>
 
 <table border=1><col width="1300">
-<tbody>
+<tbody><col width="1300">
 
-<tr><td>name</td><td>
+<tr><td width="1300">name</td><td>
 Wouter Olaf van Ooijen
 </td></tr>
 
