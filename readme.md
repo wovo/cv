@@ -323,7 +323,7 @@ to be performed and to authorize the results.
 
 <!--- --------------------------------------------------------------------- -->
 
-# education
+# Education
 
 <table border=1><tbody>
 
@@ -368,7 +368,7 @@ Vrije School Den haag
 
 <!--- --------------------------------------------------------------------- -->
 
-# talks
+# Talks
 
 These are my talks and appearances that have been recorded.
 Most are on the subject of using modern C++ for small embedded systems.
@@ -390,8 +390,20 @@ Most are on the subject of using modern C++ for small embedded systems.
 
 <!--- --------------------------------------------------------------------- -->
 
-# miscellaneous
+# Miscellaneous
 
-languages Dutch (native), English
+<table border=1><tbody>
 
+<tr><td width="180">languages</td><td>
+Dutch (native), English
+</td></tr>
 
+<tr><td>hobbies</td><td>
+Natural history (water insects, mushrooms)
+</td></tr>
+
+<tr><td>sports</td><td>
+Badminton (thesaurier and chair of Badminton Club Leiden)
+</td></tr>
+
+</tbody></table>
