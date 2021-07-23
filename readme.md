@@ -140,7 +140,7 @@ MPTE is a visual simulator of the ERA robot arm,
 the space station on which the robot is used, 
 and the environment of the space station (sun, moon, earth, stars). 
 MPTE is used for mission preparation and for cosmonaut training.
-
+<BR /><BR />
 I created automated test procedures for a number of simulation models developed at LNR. 
 The procedures test both the functionality and the test path coverage (using Tcat-Path). 
 I also rewrote and corrected the model code and wrote (or rewrote) the detailed designs.
@@ -174,7 +174,7 @@ Its original intended use was as a voice and data communication system
 in military vehicles (tanks), either stand-alone or in groups (headquarters). 
 An important civil customer is the NS (Dutch railways) where it is used to carry video, 
 voice and data over the existing glass fiber infrastructure.
-
+<BR /><BR />
 I contributed to the system design of SmartNet, 
 especially the interface definitions, the testability, 
 the transport of synchronous data and the scalability. 
@@ -209,7 +209,7 @@ The European Robotic Arm (ERA) is a robot arm for the Russian section
 of the international space station ISS. 
 As the prime contractor Fokker Space is responsible for the system design, 
 the project management and the integration and testing of the total system.
-
+<BR /><BR />
 I worked mainly on the central computer of the arm 
 and on the datacommunication within the arm. 
 Critical aspects were the performance of the processor 
@@ -246,7 +246,7 @@ Amsterdam; Netherlands
 A cheque processing system was adapted for the Dutch situation. 
 The system consisted of an optical cheque reader, a database system, 
 an OCR engine, an number of data entry terminals and a mainframe connection.
-
+<BR /><BR />
 I worked as (C/C++) programmer and as team leader.
 </td></tr>
 
@@ -280,7 +280,7 @@ that handles the communication with various industrial control systems
 (Honeywell, TDC, Siemens, AEG, SattControl). 
 A DM90 gathers and stores real-time data and presents 
 this data in a uniform way to a VAX-VMS system.
-
+<BR /><BR />
 I worked as (E-Pascal, C, Fortran) programmer, designer, trainer and as team leader.
 </td></tr>
 
@@ -310,7 +310,7 @@ Leiderdorp; Netherlands
 The hospitals laboratory performs analysis on blood samples. 
 The analysis requests are provided by the hospitals mainframe. 
 The majority of the analysis are performed on automated analysis machines.
-
+<BR /><BR />
 I designed, implemented (TurboPascal) and introduced a network of PCs. 
 One PC gets the requests from the mainframe, and feeds the authorized result back. 
 The other PCs are each coupled to one or more analysis machines 
@@ -341,7 +341,7 @@ Technische Universiteit Delft
 
 <tr><td colspan = 2>
 Member and chair of the student club "de Delftsche Zwervers".
-
+<BR /><BR />
 Student-assistant for three programming courses: 
 Pascal, PDP-11 assembler, numerical algorithms.
 </td></tr>
