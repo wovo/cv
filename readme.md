@@ -1,8 +1,26 @@
 ![picture of me](pics/myself.jpg)
 
+    <table border="1"><col width="350">
+                    <tr>
+                        <th>NAME</th>
+                        <th>AGE</th>
+                        <th>BRANCH</th>
+                    </tr>
+                    <tr>
+                        <td>BITTU</td>
+                        <td>22</td>
+                        <td>CSE</td>
+                    </tr>
+                    <tr>
+                        <td>RAM</td>
+                        <td>21</td>
+                        <td>ECE</td>
+                    </tr>
+    </table>
+
 <table><tbody><col width="650">
 
-<tr><td>name xx</td><td>
+<tr><td>name xy</td><td>
 Wouter Olaf van Ooijen
 </td></tr>
 
@@ -15,11 +33,15 @@ wouter@voti.nl
 </td></tr>
 
 <tr><td>home</td><td>
-Amersfoort, Netherlands
+Amersfoort, Netherlands; permanent relocation is not an option, remote work and periodic trips are
+</td></tr>
+
+<tr><td>availability</td><td>
+employed, looking for a next step
 </td></tr>
 
 <tr><td>highest education</td><td>
-University, TH/TU Delft, Informatics (Computer Science)
+university, TH/TU Delft, Informatics (Computer Science)
 </td></tr>
 
 <tr><td>keywords</td><td>
