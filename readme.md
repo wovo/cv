@@ -13,9 +13,18 @@
 </tr>
 </table>
 
+<style>
+table th:first-of-type {
+    width: 30%;
+}
+table th:nth-of-type(2) {
+    width: 70%;
+}
+</style>
+
 <table border=1><tbody>
 
-<tr><td><span style="display: inline-block; width:500px">name</span></td><td>
+<tr><td>name</td><td>
 Wouter Olaf van Ooijen
 </td></tr>
 
