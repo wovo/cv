@@ -43,6 +43,10 @@ C++ SG14, Meeting C++, Meeting Embedded, ACCU, EmBo++, CoreHard, The Dutch C++ g
 https://www.github.com/wovo/cv
 </td></tr>
 
+<tr><td>file location</td><td>
+[printable version](https://gitprint.com/wovo/cv/blob/master/readme.md)
+</td></tr>
+
 </tbody></table>
 
 <!--- --------------------------------------------------------------------- -->
@@ -76,8 +80,14 @@ I work at the section Technical Informatics (Computer Science)
 of the HBO-ICT institute, where
 I am overall responsible for the 1.5 years of TI curriculum.
 I coach and guide colleagues, create course material, 
-give lectures, guide and supervise students, and run the lab.
+give lectures, and guide and supervise students.
+
+I initiated and manage the lab, which is the place where lecturers, 
+freshmen and senior students meet and work on projects.
+I started the 
+
 My specialization is programming small embedded (micro-controllers) systems in C++.
+
 </td></tr>
 
 </tbody></table>
@@ -344,8 +354,9 @@ Technische Universiteit Delft
 </td></tr>
 
 <tr><td colspan = 2>
-+ Member and chair of the student club "de Delftsche Zwervers".
-+ Student-assistant for three programming courses: 
+Member and chair of the student club "de Delftsche Zwervers".
+<BR />
+Student-assistant for three programming courses: 
 Pascal, PDP-11 assembler, numerical algorithms.
 </td></tr>
 
