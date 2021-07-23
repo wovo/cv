@@ -13,7 +13,7 @@
 </tr>
 </table>
 
-<table><tbody><col width="650">
+<table><col width="650"><tbody>
 
 <tr><td>name xy</td><td>
 Wouter Olaf van Ooijen
