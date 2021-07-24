@@ -17,7 +17,7 @@ wouter@voti.nl
 <tr><td>home</td><td>
 Amersfoort, Netherlands
 <BR />
-Permanent relocation is not an option, remote work and periodic trips are.
+Remote work and periodic trips are an option; permanent relocation is not.
 </td></tr>
 
 <tr><td>availability</td><td>
@@ -43,15 +43,52 @@ C++ SG14, Meeting C++, Meeting Embedded, ACCU, EmBo++, CoreHard, The Dutch C++ g
 https://www.github.com/wovo/cv
 </td></tr>
 
-<tr><td>file location</td><td>
-[printable version](https://gitprint.com/wovo/cv/blob/master/readme.md)
-</td></tr>
-
 </tbody></table>
 
 <!--- --------------------------------------------------------------------- -->
 
 ## Profile
+
+I am a software professional with a passion for electronics.
+I often work on the boundary between hardware and software. 
+I have a solid background in my field of work, 
+(the technical application of software), 
+and adequate knowledge of neighboring domains 
+(mathematics, electronics, physics, chemistry, biology). 
+
+I am quick to learn the essences of new subjects. 
+I have worked in industrial, space and military domains in various roles 
+where electronics, reliability, resource constraints, real-time aspects, 
+and data-communication were important factors.
+
+I started my career as programmer with the hiring company ICT Automatisering, 
+for which I worked internally and externally at various projects. 
+I became a 'problem solver' for technically challenging problems that 
+involved both software, and other technical domains. 
+For me 'solving' means identifying and (as far as possible) 
+quantifying the consequences of the available alternatives, 
+so a well-founded decision can be made. 
+Often the non-software aspects (hardware, costs, risks, schedule impact,
+politics, company culture) are what makes a problem really interesting (and challenging).
+
+In 2001 I started as an independent, with a webshop and hiring myself out as a freelancer. 
+The shop expanded, and the freelancing was replaced by fixed-price contract work,
+and a small assignment as lecturer. 
+My main activities were with Microchip PIC, and ARM/Cortex micro-controllers. 
+I sell these chips (and related components), design products with them, and teach their use.
+
+From 2010 onwards the webshop declined, and I focussed more on lecturing.
+As a lecturer, I pass my knowledge and experience on to new generations
+of embedded software engineers.
+I combine different work formats:
+written material, lectures (life and recorded), 
+interactive work sessions,
+home assignments, individual and group projects.
+Most of all, I activate the students own motivation by
+providing individual challenges.
+
+I am a firm proponent of using C++ for small embedded (micro-controller) systems.
+I have held talks at various C++ conferences on this subject.
 
 <!--- --------------------------------------------------------------------- -->
 
@@ -83,8 +120,11 @@ I coach and guide colleagues, create course material,
 give lectures, and guide and supervise students.
 
 I initiated and manage the lab, which is the place where lecturers, 
-freshmen and senior students meet and work on projects.
-I started the 
+freshmen and senior students meet, discuss, and work on projects.
+I also initiated the visiting of local meetings (the Dutch C++ group)
+and international conferences (code::drive, FOSDEM, EmBo++).
+This started with a small group of senior TI students, and was gradually
+expanded to interested students of all years and other sections of the institute.
 
 My specialization is programming small embedded (micro-controllers) systems in C++.
 
