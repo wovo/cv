@@ -2,6 +2,10 @@
 
 <table border=1><tbody>
 
+<tr rowspan=9><td>
+![](pics/myself.jpg)
+</td></tr>
+
 <tr><td width="180">name</td><td>
 Wouter Olaf van Ooijen
 </td></tr>
@@ -81,7 +85,7 @@ and a small assignment as lecturer.
 My main activities were with Microchip PIC, and ARM/Cortex micro-controllers. 
 I sell these chips (and related components), design products with them, and teach their use.
 
-From 2010 onwards the webshop declined, and I focussed more on lecturing.
+From 2010 onwards the webshop declined, and I focused more on lecturing.
 As a lecturer, I pass my knowledge and experience on to new generations
 of embedded software engineers.
 I combine different work formats:
@@ -92,7 +96,9 @@ Most of all, I activate the students own motivation by
 providing individual challenges.
 
 I am a firm proponent of using C++ for small embedded (micro-controller) systems.
-I have held talks at various C++ conferences on this subject.
+I have held talks at various C++ conferences on this subject,
+and I participate in SG14, the GameDev & low latency ISO C++ working group.
+
 
 <!--- --------------------------------------------------------------------- -->
 
@@ -158,13 +164,13 @@ Amersfoort; Netherlands
 </td></tr>
 
 <tr><td colspan = 2>
-I run a webshop for microcontroller chips and related products. 
+I run a webshop for micro-controller chips and related products. 
 My customers range from entry-level hobbyists to small-scale professionals, 
 the occasional a large company or a school. 
 <BR /><BR />
 
 I also did some freelance jobs that are mentioned below, 
-contract embedded software development, and due-dilligence code base audits.
+contract embedded software development, and due-diligence code base audits.
 </td></tr>
 
 </tbody></table>
@@ -463,7 +469,7 @@ Natural history: water insects, mushrooms
 <tr><td>sports</td><td>
 Badminton 
 <BR />
-thesaurier and chair of Badminton Club Leiden
+chair of Badminton Club Leiden
 </td></tr>
 
 </tbody></table>
