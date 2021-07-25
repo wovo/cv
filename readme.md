@@ -43,6 +43,10 @@ C++ SG14, Meeting C++, Meeting Embedded, ACCU, EmBo++, CoreHard, The Dutch C++ g
 https://www.github.com/wovo/cv
 </td></tr>
 
+<tr><td>printable web page</td><td>
+https://htmlpreview.github.io/?https://github.com/wovo/cv/blob/master/index.html
+</td></tr>
+
 </tbody></table>
 
 <!--- --------------------------------------------------------------------- -->
