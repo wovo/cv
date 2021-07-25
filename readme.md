@@ -4,7 +4,7 @@
 <IMG SRC=pics/myself.jpg>
 </td></tr>
 
-<tr><td width="180">name</td><td>
+<tr><td width="240">name</td><td>
 Wouter Olaf van Ooijen
 </td></tr>
 
