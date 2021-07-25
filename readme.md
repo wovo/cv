@@ -1,7 +1,6 @@
 <table border=1><tbody>
 
-<tr><td rowspan=10>
-![picture of me](pics/myself.jpg)
+<tr><td rowspan=10 width=180>
 <IMG SRC=pics/myself.jpg>
 </td></tr>
 
