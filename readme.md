@@ -1,9 +1,7 @@
-![picture of me](pics/myself.jpg)
-
 <table border=1><tbody>
 
 <tr rowspan=9><td>
-![](pics/myself.jpg)
+![picture of me](pics/myself.jpg)
 </td></tr>
 
 <tr><td width="180">name</td><td>
