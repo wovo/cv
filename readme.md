@@ -1,6 +1,6 @@
 <table border=1><tbody>
 
-<tr rowspan=9><td>
+<tr><td rowspan=9>
 ![picture of me](pics/myself.jpg)
 </td></tr>
 
