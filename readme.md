@@ -1,10 +1,10 @@
 <table border=1><tbody>
 
-<tr><td rowspan=10 width=180>
+<tr><td rowspan=10 width=240>
 <IMG SRC=pics/myself.jpg>
 </td></tr>
 
-<tr><td width="240">name</td><td>
+<tr><td width="180">name</td><td>
 Wouter Olaf van Ooijen
 </td></tr>
 
