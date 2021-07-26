@@ -4,36 +4,36 @@
 <IMG SRC=pics/myself.jpg>
 </td></tr>
 
-<tr><td width="180">name</td><td>
+<tr><td width="180">Name</td><td>
 Wouter Olaf van Ooijen
 </td></tr>
 
-<tr><td>contact</td><td>
+<tr><td>Contact</td><td>
 wouter@voti.nl
 </td></tr>
 
-<tr><td>born</td><td>
+<tr><td>Born</td><td>
 18 september 1962, Gouda, Netherlands
 </td></tr>
 
-<tr><td>home</td><td>
+<tr><td>Home</td><td>
 Amersfoort, Netherlands
 <BR />
 Remote work and periodic trips are an option; permanent relocation is not.
 </td></tr>
 
-<tr><td>availability</td><td>
-employed, in for a next step
+<tr><td>Availability</td><td>
+Employed, in for a next step
 </td></tr>
 
-<tr><td>highest education</td><td>
-university, TU Delft, Informatics (Computer Science)
+<tr><td>Highest education</td><td>
+University, TU Delft, Informatics (Computer Science)
 </td></tr>
 
-<tr><td>keywords</td><td>
+<tr><td>Keywords</td><td>
 C++, Python, C, assembler, Ada, Java, 
 embedded, real-time, resource-constrained, electronics,
-system design, lecturer, team leader,
+system designer, architect, lecturer, team leader,
 Linux, micro-controller, Cortex-M, Microchip PIC, 
 Arduino, 
 make, git, catch2, doxygen, 
@@ -41,11 +41,11 @@ industrial, space, military,
 C++ SG14, Meeting C++, Meeting Embedded, ACCU, EmBo++, CoreHard, The Dutch C++ group
 </td></tr>
 
-<tr><td>file location</td><td>
+<tr><td>File location</td><td>
 https://www.github.com/wovo/cv
 </td></tr>
 
-<tr><td>printable web page</td><td>
+<tr><td>Printable web page</td><td>
 https://htmlpreview.github.io/?https://github.com/wovo/cv/blob/master/index.html
 </td></tr>
 
@@ -57,12 +57,14 @@ https://htmlpreview.github.io/?https://github.com/wovo/cv/blob/master/index.html
 
 I am a software professional with a passion for electronics.
 I often work on the boundary between hardware and software. 
-I have a solid background in my field of work, 
-(the technical application of software), 
-and adequate knowledge of neighboring domains 
-(mathematics, electronics, physics, chemistry, biology). 
-
 I am quick to learn the essences of new subjects. 
+
+I have a solid background in my field of work
+(technical software applications), 
+adequate knowledge of neighboring domains 
+(like mathematics, electronics, physics, chemistry, biology), 
+and an active interest in more.
+I like working with professionals from both software and other domains.
 I have worked in industrial, space and military domains in various roles 
 where electronics, reliability, resource constraints, real-time aspects, 
 and data-communication were important factors.
