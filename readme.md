@@ -31,21 +31,21 @@ University, TU Delft, Informatics (Computer Science)
 </td></tr>
 
 <tr><td>Keywords</td><td>
-C++, Python, C, assembler, Ada, Java, 
+C++, Python, C, assembler, Ada, Java, (Turbo)Pascal, DEC EPascal,
 embedded, real-time, resource-constrained, electronics,
 system designer, architect, lecturer, team leader,
-Linux, micro-controller, Cortex-M, Microchip PIC, 
-Arduino, 
-make, git, catch2, doxygen, 
+Linux, micro-controller, Cortex-M, Microchip PIC, Arduino, 
+make, git, catch2, doxygen, pybind2,
 industrial, space, military, 
-C++ SG14, Meeting C++, Meeting Embedded, ACCU, EmBo++, CoreHard, The Dutch C++ group
+C++ SG14, Meeting C++, Meeting Embedded, 
+ACCU, EmBo++, CoreHard, The Dutch C++ group
 </td></tr>
 
 <tr><td>File location</td><td>
-https://www.github.com/wovo/cv
+https://www.github.com/wovo/cv/readme.md
 </td></tr>
 
-<tr><td>Printable web page</td><td>
+<tr><td>Printable html page</td><td>
 https://htmlpreview.github.io/?https://github.com/wovo/cv/blob/master/index.html
 </td></tr>
 
@@ -53,21 +53,31 @@ https://htmlpreview.github.io/?https://github.com/wovo/cv/blob/master/index.html
 
 <!--- --------------------------------------------------------------------- -->
 
+## Ambition
+
+I would like to help an embedded team to use
+C++ effectively to improve productivity and software quality.
+This probably involves a transition from C.
+My role would be team lead, consultant, or trainer.
+
+<!--- --------------------------------------------------------------------- -->
+
 ## Profile
 
-I am a software professional with a passion for electronics.
-I often work on the boundary between hardware and software. 
-I am quick to learn the essences of new subjects. 
+I am a software professional with a passion for electronics,
+often working on the boundary between hardware and software. 
+I am quick to learn the essence of new application areas,
+and I like to exchange knowledge.
 
 I have a solid background in my field of work
 (technical software applications), 
 adequate knowledge of neighboring domains 
-(like mathematics, electronics, physics, chemistry, biology), 
+(mathematics, electronics, physics, chemistry, biology, etc.), 
 and an active interest in more.
 I like working with professionals from both software and other domains.
-I have worked in industrial, space and military domains in various roles 
-where electronics, reliability, resource constraints, real-time aspects, 
-and data-communication were important factors.
+I have worked in industrial, space, military and academic domains 
+in various roles where electronics, reliability, resource constraints, 
+real-time aspects, and data-communication were important.
 
 I started my career as programmer with the hiring company ICT Automatisering, 
 for which I worked internally and externally at various projects. 
@@ -85,20 +95,21 @@ and a small assignment as lecturer.
 My main activities were with Microchip PIC, and ARM/Cortex micro-controllers. 
 I sell these chips (and related components), design products with them, and teach their use.
 
-From 2010 onwards the webshop declined, and I focused more on lecturing.
-As a lecturer, I pass my knowledge and experience on to new generations
-of embedded software engineers.
-I combine different work formats:
+From 2010 onwards my work gradually shifted from the webshop to lecturing.
+As a lecturer, I really enjoy passing my knowledge and experience on to new generations
+of embedded software engineers,
+both technical aspects and the enthusiasm for the field.
+I prefer to combine different formats:
 written material, lectures (life and recorded), 
-interactive work sessions,
+interactive work sessions, small-group discussions, 
 home assignments, individual and group projects.
-Most of all, I activate the students own motivation by
-providing individual challenges.
+Most of all, I activate the students internal motivation by
+providing individual challenges and bringing them into contact with the 
 
 I am a firm proponent of using C++ for small embedded (micro-controller) systems.
 I have held talks at various C++ conferences on this subject,
-and I participate in SG14, the GameDev & low latency ISO C++ working group.
-
+and I participate in the SG14 GameDev & low latency ISO C++ working group,
+which is part of the ongoing C++ standardization and evolution process.
 
 <!--- --------------------------------------------------------------------- -->
 
@@ -371,11 +382,11 @@ Leiderdorp; Netherlands
 </td></tr>
 
 <tr><td colspan = 2>
-The hospitals laboratory performs analysis on blood samples. 
+The hospital laboratory performs analysis on blood samples. 
 The analysis requests are provided by the hospitals mainframe. 
 The majority of the analysis are performed on automated analysis machines.
 <BR /><BR />
-I designed, implemented (TurboPascal) and introduced a network of PCs. 
+I designed, implemented (in TurboPascal) and introduced a network of PCs. 
 One PC gets the requests from the mainframe, and feeds the authorized result back. 
 The other PCs are each coupled to one or more analysis machines 
 and receive the analysis results via RS-232 interfaces. 
@@ -425,7 +436,7 @@ IVO MAVO, VWO (state exam)
 </td></tr>
 
 <tr><td>organization</td><td>
-Vrije School Den haag
+Vrije School Den Haag
 </td></tr>
 
 </tbody></table>
@@ -464,12 +475,16 @@ Dutch (native), English
 
 <tr><td>hobbies</td><td>
 Natural history: water insects, mushrooms
+<BR />
+Buitenkunst
 </td></tr>
 
 <tr><td>sports</td><td>
 Badminton 
-<BR />
-chair of Badminton Club Leiden
+</td></tr>
+
+<tr><td>family</td><td>
+Married, 3 children, 2 cats
 </td></tr>
 
 </tbody></table>
