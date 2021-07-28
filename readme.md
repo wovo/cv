@@ -33,7 +33,7 @@ University, TU Delft, Informatics (Computer Science)
 <tr><td>Keywords</td><td>
 C++, Python, C, assembler, Ada, Java, (Turbo)Pascal, DEC EPascal,
 embedded, real-time, resource-constrained, electronics,
-system designer, architect, lecturer, team leader,
+system designer, architect, lecturer, consultant, team leader,
 Linux, micro-controller, Cortex-M, Microchip PIC, Arduino, 
 make, git, catch2, doxygen, pybind2,
 industrial, space, military, 
@@ -55,10 +55,13 @@ https://htmlpreview.github.io/?https://github.com/wovo/cv/blob/master/index.html
 
 ## Ambition
 
-I would like to help an embedded team to use
-C++ effectively to improve productivity and software quality.
-This probably involves a transition from C.
-My role would be team lead, consultant, or trainer.
+I want to guide and help an embedded development team to use
+C++ effectively to improve productivity, software quality and code re-use.
+
+This can involves a fresh team, a team struggling with C++, 
+or a team transitioning from C to C++.
+
+My role is architect, team lead, consultant, or trainer.
 
 <!--- --------------------------------------------------------------------- -->
 
@@ -67,19 +70,20 @@ My role would be team lead, consultant, or trainer.
 I am a software professional with a passion for electronics,
 often working on the boundary between hardware and software. 
 I am quick to learn the essence of new application areas,
-and I like to exchange knowledge.
+and I like to absorb and disseminate knowledge.
 
-I have a solid background in my field of work
-(technical software applications), 
+I have a solid background in my field of work (technical software), 
 adequate knowledge of neighboring domains 
 (mathematics, electronics, physics, chemistry, biology, etc.), 
-and an active interest in more.
+and an active interest in everything else that turns out to be relevant.
 I like working with professionals from both software and other domains.
 I have worked in industrial, space, military and academic domains 
 in various roles where electronics, reliability, resource constraints, 
 real-time aspects, and data-communication were important.
 
-I started my career as programmer with the hiring company ICT Automatisering, 
+I started my career as programmer with one year as a one-man development
+team for a hospital laboratory. 
+Next I joined the hiring company ICT Automatisering, 
 for which I worked internally and externally at various projects. 
 I became a 'problem solver' for technically challenging problems that 
 involved both software, and other technical domains. 
@@ -92,10 +96,11 @@ politics, company culture) are what makes a problem really interesting (and chal
 In 2001 I started as an independent, with a webshop and hiring myself out as a freelancer. 
 The shop expanded, and the freelancing was replaced by fixed-price contract work,
 and a small assignment as lecturer. 
-My main activities were with Microchip PIC, and ARM/Cortex micro-controllers. 
-I sell these chips (and related components), design products with them, and teach their use.
+My main activities involved Microchip PIC and ARM/Cortex micro-controllers. 
+I still sell these chips (and related components), and some products that contain 
+these chips.
 
-From 2010 onwards my work gradually shifted from the webshop to lecturing.
+From 2010 onwards my work gradually shifted from the webshop ad freelancing to lecturing.
 As a lecturer, I really enjoy passing my knowledge and experience on to new generations
 of embedded software engineers,
 both technical aspects and the enthusiasm for the field.
@@ -103,8 +108,9 @@ I prefer to combine different formats:
 written material, lectures (life and recorded), 
 interactive work sessions, small-group discussions, 
 home assignments, individual and group projects.
-Most of all, I activate the students internal motivation by
-providing individual challenges and bringing them into contact with the 
+I activate the internal motivation of students (and colleagues) by
+providing individual challenges and bringing them into contact with 
+professionals in the field.
 
 I am a firm proponent of using C++ for small embedded (micro-controller) systems.
 I have held talks at various C++ conferences on this subject,
@@ -143,11 +149,12 @@ give lectures, and guide and supervise students.
 I initiated and manage the lab, which is the place where lecturers, 
 freshmen and senior students meet, discuss, and work on projects.
 I also initiated the visiting of local meetings (the Dutch C++ group)
-and international conferences (code::drive, FOSDEM, EmBo++).
+and international conferences (code::dive, FOSDEM, EmBo++).
 This started with a small group of senior TI students, and was gradually
-expanded to interested students of all years and other sections of the institute.
+expanded to interested students of all years and also other sections of the institute.
 
-My specialization is programming small embedded (micro-controllers) systems in C++.
+My specialization is C++ and software engineering, 
+applied to programming small embedded (micro-controllers) systems.
 
 </td></tr>
 
@@ -180,8 +187,9 @@ My customers range from entry-level hobbyists to small-scale professionals,
 the occasional a large company or a school. 
 <BR /><BR />
 
-I also did some freelance jobs that are mentioned below, 
-contract embedded software development, and due-diligence code base audits.
+I also did freelance work (NLR, see below) 
+contract embedded software development, 
+and due-diligence code base audits.
 </td></tr>
 
 </tbody></table>
