@@ -58,8 +58,10 @@ https://htmlpreview.github.io/?https://github.com/wovo/cv/blob/master/index.html
 I want to guide and help an embedded development team to use
 C++ effectively to improve productivity, software quality and code re-use.
 
+
 This can involves a fresh team, a team struggling with C++, 
 or a team transitioning from C to C++.
+
 
 My role is architect, team lead, consultant, or trainer.
 
