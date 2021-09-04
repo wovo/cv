@@ -19,15 +19,22 @@ wouter@voti.nl
 <tr><td>Home</td><td>
 Amersfoort, Netherlands
 <BR />
-Remote work and periodic trips are an option; permanent relocation is not.
+I prefer on-site work.
+Remote work and periodic trips are an option, 
+permanent relocation is not.
 </td></tr>
 
 <tr><td>Availability</td><td>
-Employed, in for a next step
+Currently employed, looking for a next step:
+full time, part-time, or freelance.
 </td></tr>
 
 <tr><td>Highest education</td><td>
 University, TU Delft, Informatics (Computer Science)
+</td></tr>
+
+<tr><td width="180">Languages</td><td>
+Dutch (native), English (fluent)
 </td></tr>
 
 <tr><td>Keywords</td><td>
@@ -455,23 +462,23 @@ Vrije School Den Haag
 
 # Talks
 
-These are my talks and appearances that have been recorded.
-Most are on the subject of using modern C++ for small embedded systems.
+These are my talks and appearances on C++ meetings that were recorded.
+Most are about using modern C++ for small embedded systems.
 
-* ["We stopped teaching C++"](https://www.youtube.com/watch?v=VZUTJ2UNXxI) 
-   (with Jorn Bunk) Meeting Embedded 2019
 * ["Better embedded library interfaces with modern C++"](https://www.youtube.com/watch?v=ArRuPzN7JXs) 
-   ACCU 2019
+   ACCU 2019, Bristol
+* ["We stopped teaching C++"](https://www.youtube.com/watch?v=VZUTJ2UNXxI) 
+   (with Jorn Bunk) Meeting Embedded 2019, Berlin
 * ["Grill the committee"](https://www.youtube.com/watch?v=OY_mS2e4XTk) 
-   CoreHard Spring 2018
+   CoreHard Spring 2018, Minsk
 * ["Objects? No thanks!"](https://www.youtube.com/watch?v=GcfqHT4RtWc)
-   CoreHard Spring 2018 Keynote
+   CoreHard Spring 2018 Keynote, Minsk
 * ["Embedded & C++"](https://www.youtube.com/watch?v=mNPfsUZb3vs)
-   Meeting C++ 2017 Keynote
+   Meeting C++ 2017 Keynote, Berlin
 * ["C++ on small micro controllers"](https://www.youtube.com/watch?v=07d5g7Ykgas) 
-   Meeting C++ 2015   
+   Meeting C++ 2015, Berlin   
 * ["Objects? No Thanks!"](https://www.youtube.com/watch?v=k8sRQMx2qUw)
-   Meeting C++ 2014   
+   Meeting C++ 2014, Berlin   
 
 <!--- --------------------------------------------------------------------- -->
 
@@ -479,17 +486,13 @@ Most are on the subject of using modern C++ for small embedded systems.
 
 <table border=1; width="100%"><tbody>
 
-<tr><td width="180">languages</td><td>
-Dutch (native), English
-</td></tr>
-
-<tr><td>hobbies</td><td>
+<tr><td>Hobbies</td><td>
 Natural history: water insects, mushrooms
-<BR />
+<BR>
 Buitenkunst
 </td></tr>
 
-<tr><td>sports</td><td>
+<tr><td>Sports</td><td>
 Badminton 
 </td></tr>
 
