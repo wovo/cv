@@ -1,6 +1,6 @@
 <table border=1><tbody>
 
-<tr><td rowspan=10 width=240>
+<tr><td rowspan=11 width=240>
 <IMG SRC=pics/myself.jpg>
 </td></tr>
 
