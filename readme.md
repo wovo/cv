@@ -469,6 +469,8 @@ Most are about using modern C++ for small embedded systems.
    ACCU 2019, Bristol
 * ["We stopped teaching C++"](https://www.youtube.com/watch?v=VZUTJ2UNXxI) 
    (with Jorn Bunk) Meeting Embedded 2019, Berlin
+* [Embedded C++ For Embedded C Programmers](https://youtube.com/watch?v=jbeyQe6RVo8)
+   emBO++ 2019, Bochum
 * ["Grill the committee"](https://www.youtube.com/watch?v=OY_mS2e4XTk) 
    CoreHard Spring 2018, Minsk
 * ["Objects? No thanks!"](https://www.youtube.com/watch?v=GcfqHT4RtWc)
