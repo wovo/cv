@@ -25,8 +25,7 @@ permanent relocation is not.
 </td></tr>
 
 <tr><td>Availability</td><td>
-Currently employed, looking for a next step:
-full time, part-time, or freelance.
+Currently employed
 </td></tr>
 
 <tr><td>Highest education</td><td>
@@ -49,7 +48,7 @@ ACCU, EmBo++, CoreHard, The Dutch C++ group
 </td></tr>
 
 <tr><td>File location</td><td>
-https://www.github.com/wovo/cv/readme.md
+https://www.github.com/wovo/cv
 </td></tr>
 
 <tr><td>Printable html page</td><td>
@@ -65,12 +64,12 @@ https://htmlpreview.github.io/?https://github.com/wovo/cv/blob/master/index.html
 I want to guide and help an embedded development team to use
 C++ effectively to improve productivity, software quality and code re-use.
 
-
-This can involves a fresh team, a team struggling with C++, 
+This can involve a fresh team, a team struggling with C++, 
 or a team transitioning from C to C++.
 
-
-My role is architect, team lead, consultant, or trainer.
+My role is consultant, architect, team lead, trainer.
+Occasionally I also design, code, document, test, evaluate, and 
+whatever else is necessary.
 
 <!--- --------------------------------------------------------------------- -->
 
@@ -133,7 +132,36 @@ which is part of the ongoing C++ standardization and evolution process.
 <table border=1><tbody>
 
 <tr><td width="180">period</td><td>
-2004 - present
+2022 - ...
+</td></tr>
+
+<tr><td>function</td><td>
+embedded software expert
+</td></tr>
+
+<tr><td>organization</td><td>
+cboost (https://www.cboost.nl)
+</td></tr>
+
+<tr><td>location</td><td>
+Breda / Utrecht; Netherlands
+</td></tr>
+
+<tr><td colspan = 2>
+CBoost is an engineering company specialized in robotics 
+and artificial intelligence.
+
+My first activity is coaching an automotive development team.
+</td></tr>
+
+</tbody></table>
+
+<!--- --------------------------------------------------------------------- -->
+
+<table border=1><tbody>
+
+<tr><td width="180">period</td><td>
+2004 - 2022
 </td></tr>
 
 <tr><td>function</td><td>
@@ -164,7 +192,6 @@ expanded to interested students of all years and also other sections of the inst
 
 My specialization is C++ and software engineering, 
 applied to programming small embedded (micro-controllers) systems.
-
 </td></tr>
 
 </tbody></table>
