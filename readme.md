@@ -494,7 +494,7 @@ Most are about using modern C++ for small embedded systems.
 
 * ["Better embedded library interfaces with modern C++"](https://www.youtube.com/watch?v=ArRuPzN7JXs) 
    ACCU 2019, Bristol
-* ["We stopped teaching C++"](https://www.youtube.com/watch?v=VZUTJ2UNXxI) 
+* ["We stopped teaching C"](https://www.youtube.com/watch?v=VZUTJ2UNXxI) 
    (with Jorn Bunk) Meeting Embedded 2019, Berlin
 * [Embedded C++ For Embedded C Programmers](https://youtube.com/watch?v=jbeyQe6RVo8)
    emBO++ 2019, Bochum
